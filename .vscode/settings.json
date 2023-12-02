@@ -3,5 +3,7 @@
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
-  }
+  },
+  "editor.fontSize": 14,
+  "editor.tabSize": 2
 }
